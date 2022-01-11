@@ -1,0 +1,3 @@
+[submodule "metaplex"]
+	path = metaplex
+	url = https://github.com/metaplex-foundation/metaplex
